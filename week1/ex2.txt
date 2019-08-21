@@ -1,0 +1,10 @@
+cat ex2.txt -n
+cat ex2.txt
+history > ex2.txt
+history
+cat ex1.txt
+ls
+ls /usr/bin/ | grep "gcc" | sort -r > ex1.txt
+cd week1
+mkdir week1
+man jobs
