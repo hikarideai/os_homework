@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   1825	    300	      4	   2129	    851	/home/hikarideai/a.out
