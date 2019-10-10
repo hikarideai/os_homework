@@ -1,0 +1,1 @@
+The difference, as the terminology self-describes, is that the value of the virtual address does not correspond to a place somewhere on the primary memory, while the physical address does. The virtual address, however, may be used to obtain a physical address, but the fact is still that it is just an abstraction used to hide kernel's memory management from the processes.
