@@ -1,0 +1,6 @@
+Output of find:
+../week1/file.txt
+../week10/_ex2.txt
+
+The find .. -inum .. -evec rm {} \;
+has no output, since rm is called with the filepath of a file that exists, and so nothing is printed by rm and the files are deleted.

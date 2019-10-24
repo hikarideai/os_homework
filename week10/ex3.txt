@@ -1,0 +1,31 @@
+Step 1:
+total 8
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_1.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_2.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1.txt
+-rw-r--r-- 1 hikarideai wheel  58 Oct 24 19:51 ex1.txt
+-rw-r--r-- 1 hikarideai wheel 224 Oct 24 19:58 ex2.txt
+---------- 1 hikarideai wheel   0 Oct 24 20:00 _ex3.txt
+
+Step 2:
+total 8
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_1.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_2.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1.txt
+-rw-r--r-- 1 hikarideai wheel  58 Oct 24 19:51 ex1.txt
+-rw-r--r-- 1 hikarideai wheel 224 Oct 24 19:58 ex2.txt
+-rwx---rwx 1 hikarideai wheel   0 Oct 24 20:00 _ex3.txt*
+
+Step 3:
+total 8
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_1.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1_2.txt
+-rw-r--r-- 3 hikarideai wheel   0 Oct 24 19:49 _ex1.txt
+-rw-r--r-- 1 hikarideai wheel  58 Oct 24 19:51 ex1.txt
+-rw-r--r-- 1 hikarideai wheel 224 Oct 24 19:58 ex2.txt
+-rwxrwxrwx 1 hikarideai wheel   0 Oct 24 20:00 _ex3.txt*
+
+Step 4:
+660 means -rw-rw----
+775 means -rwxrwxr-x
+777 means -rwxrwxrwx
